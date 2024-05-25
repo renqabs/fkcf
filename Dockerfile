@@ -1,1 +1,1 @@
-FROM renqabs1/fkcf
+FROM renqabs1/fkcf:latest

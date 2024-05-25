@@ -1,5 +1,5 @@
 services:
-  fkcf:
+  gbp:
     build: 
       context: .
       dockerfile: Dockerfile
